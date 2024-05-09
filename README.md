@@ -17,7 +17,7 @@
   to install the PWA click the install button!
 
   ## Usage
-  this is a text editor set write javascript programs
+  this is a text editor set to write javascript programs
 
 
   ## How to Contribute
